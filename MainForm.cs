@@ -1166,7 +1166,7 @@ namespace LeDBF
                     Host = "smtp.gmail.com",
                     EnableSsl = true,
                     Port = 587,
-                    Credentials = new NetworkCredential("computeccristiano@gmail.com", "Compu123")
+                    Credentials = new NetworkCredential("computeccristiano@gmail.com", "123")
                 };
 
                 MailMessage mail = new MailMessage
